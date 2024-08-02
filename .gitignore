@@ -1,4 +1,6 @@
 info/
+_trash/
+_ref/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
