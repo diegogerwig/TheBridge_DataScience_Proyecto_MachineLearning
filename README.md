@@ -103,7 +103,7 @@ A continuación se detallan las carpetas y los requisitos de cada una:
 
 Para el público técnico (otros equipos de data science):
 
-1. **Contextualización Técnica**: Comienza explicando el contexto del problema y las técnicas de ML utilizadas de manera concisa. Qué problema bamos a resolver, incluir detalles sobre el conjunto de datos, la selección de características y la arquitectura del modelo.
+1. **Contextualización Técnica**: Comienza explicando el contexto del problema y las técnicas de ML utilizadas de manera concisa. Qué problema vamos a resolver, incluir detalles sobre el conjunto de datos, la selección de características y la arquitectura del modelo.
 
 2. **Enfoque en la Metodología**: Destaca el proceso de desarrollo del modelo, desde la limpieza de datos hasta la evaluación del rendimiento. Detalla cualquier técnica, algoritmos o enfoques utilizados durante el proceso.
 
