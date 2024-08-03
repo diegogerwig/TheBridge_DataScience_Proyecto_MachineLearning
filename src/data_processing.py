@@ -22,7 +22,7 @@ def process_csv(file_path):
 
 if __name__ == "__main__":
     if len(sys.argv) != 2:
-        print("Usage: python process_csv.py <csv_path>")
+        print("Usage: python data_processing.py <csv_path>")
     else:
         file_path = sys.argv[1]
         process_csv(file_path)
