@@ -1,8 +1,8 @@
 ![](./img/traffic_crash.png)
 
-# DATA TRAFFIC ACCIDENTES ANALISYS
+# TRAFFIC ACCIDENTS ANALISYS
 
-## Subject
+## ENUNCIADO
 
 [TheBridge ENUNCIADO del proyecto](./enunciado.md)
 
@@ -39,7 +39,7 @@ El potencial final del proyecto es la utilidad de lso resultados para la toma de
 ![](./img/vision_zero.jpg)
 
 
-## Requirements
+## REQUIREMENTS
 
 python 3.10.11
 
@@ -51,3 +51,13 @@ python 3.10.11
 * matplotlib==3.8.4
 * seaborn==0.13.2
 * ipywidgets==8.1.3
+
+## AUTHOR
+
+[Diego Gerwig](https://github.com/diegogerwig)
+
+## LICENSE 
+
+The gem is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT) 
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
