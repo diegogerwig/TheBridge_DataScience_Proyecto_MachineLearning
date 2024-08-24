@@ -72,13 +72,19 @@ La fuente de datos ha sido [KAGGLE](https://www.kaggle.com/datasets/saurabhshaha
 
 Tamaño del dataset:
 * Registros: 12316
-* Columnas: 32 (16 columnas con valores NULOS, hasta un máximo de 4427 valores nulos))
+* Columnas: 32 
+
+Columnas con valores NULOS: 26
+
+Máximo de valores nulos: 4427
+
+Registros DUPLICADOS: 0
 
 [Notebook -> 01_Fuentes](../notebooks/01_Fuentes.ipynb)
 
 ## Limpieza y procesamiento
 
-Se ha procedido a la limpieza del dataset mediante la eliminación de valores nulos, eliminación de duplicados y normalización.
+Se ha procedido a la limpieza del dataset mediante la gestión/eliminación de valores nulos, label encoder de datos, obtención de dummies.
 
 [Notebook -> 02_LimpiezaEDA](../notebooks/02_LimpiezaEDA.ipynb)
 
