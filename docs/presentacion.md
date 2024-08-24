@@ -12,7 +12,7 @@
     width: 100%;
     background-color: #333;
     color: white;
-    padding: 15px 5px;
+    padding: 15px 3px;
     z-index: 1000;
     display: flex;
     align-items: center;
@@ -24,7 +24,7 @@
     justify-content: space-between;
     width: 100%;
     max-width: 1000px; 
-    padding: 0 50px; 
+    padding: 0 30px; 
     box-sizing: border-box; 
   }
   .logo-left {

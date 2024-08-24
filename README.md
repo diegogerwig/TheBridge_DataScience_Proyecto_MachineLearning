@@ -15,7 +15,7 @@ Este proyecto se centra en el análisis de los datos de accidentes de tráfico. 
 En esta sección, se detallan los pasos y técnicas utilizadas para el análisis de datos:
 
 * Recolección de Datos: La fuente de datos ha sido [KAGGLE](https://www.kaggle.com/datasets/saurabhshahane/road-traffic-accidents/data).
-* Limpieza y Preprocesamiento: Se ha procedido a la limpieza del dataset mediante la eliminación de valoress nulos, eliminación de duplicados y normalización.
+* Limpieza y Preprocesamiento: Se ha procedido a la limpieza del dataset mediante la eliminación de valores nulos, eliminación de duplicados y normalización.
 * Análisis Exploratorio: Se ha realzaido el análisis exploratorio, incluyendo la visualización de datos, la identificación de patrones iniciales, y la generación de estadísticas descriptivas.
 * Análisis Avanzado: Se ha aplicado técnicas de análisis avanzadas, como análisis de correlación.
 
