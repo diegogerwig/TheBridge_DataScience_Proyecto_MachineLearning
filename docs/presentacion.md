@@ -12,7 +12,7 @@
     width: 100%;
     background-color: #333;
     color: white;
-    padding: 15px 3px;
+    padding: 10px 3px;
     z-index: 1000;
     display: flex;
     align-items: center;
@@ -47,21 +47,66 @@
     <img src="../img/logo_theBridge.svg" alt="Imagen Derecha" class="logo-right">
   </div>
   <div class="header-content">
-    <h1>TRAFFIC ACCIDENTS ANALISYS</h1>
+    <h1>TRAFFIC ACCIDENTS ANALYSIS</h1>
+    <h4>Diego Gerwig</h4>
   </div>
 </div>
 
-#
-#
-#
-
-# Título 1
-
-Contenido debajo del encabezado fijo.
-
-## Título 2
-
-Más contenido.
-
 </body>
 </html>
+
+#
+#
+#
+#
+# 🎯 NATURALEZA DEL PROYECTO
+
+Este proyecto se centra en el análisis de los datos de accidentes de tráfico. La principal finalidad es analizar las diferentes varibles de cada accidente y obtener un modelo que prediga la lesividad. El proyecto involucra la recolección, limpieza, y análisis de datos para proporcionar el pronóstico de heridos, de cara a poder tomar acciones que reduzcan la gravedad de las lesiones.
+
+# 📊 ANALISIS DE DATOS
+
+## Fuente de datos
+
+La fuente de datos ha sido [KAGGLE](https://www.kaggle.com/datasets/saurabhshahane/road-traffic-accidents/data).
+
+[Notebook -> 01_Fuentes](../notebooks/01_Fuentes.ipynb)
+
+## Limpieza y procesamiento
+
+Se ha procedido a la limpieza del dataset mediante la eliminación de valores nulos, eliminación de duplicados y normalización.
+
+[Notebook -> 02_LimpiezaEDA](../notebooks/02_LimpiezaEDA.ipynb)
+
+## Análisis exploratorio
+
+Se ha realzaido el análisis exploratorio, incluyendo la visualización de datos, la identificación de patrones iniciales, y la generación de estadísticas descriptivas.
+
+## Análisis Avanzado
+
+Se ha aplicado técnicas de análisis avanzadas, como análisis de correlación.
+
+# 🏆 ASPECTOS CLAVE
+
+Los resultados del análisis ayudarán a optimizar las medidas disuasorias y de control de trafico, realzaicón de inversiones en la mejora del paruqe de vehículos o de la infraestructura, realzaición de medidas de conciación dirigidas a los diferentes colectivos (edad, nivel cultural, etc)
+
+# 💫 MODELOS
+
+Se han empleado los siguinetes modelos para el análisis:
+
+* LogisticRegression
+* DecisionTreeClassifier
+* KNeighborsClassifier
+* RandomForestClassifier
+
+[Notebook -> 03_Entrenamiento_Evaluacion](../notebooks/03_Entrenamiento_Evaluacion.ipynb)
+
+# 💥 POTENCIAL
+
+El potencial final del proyecto es la utilidad de lso resultados para la toma de decsiones por parte de las Autoridades de trafico para la mejora de la seguridad vial.
+
+![](../img/vision_zero.jpg)
+
+# 🏁 CONCLUSIONES
+
+* 
+* 

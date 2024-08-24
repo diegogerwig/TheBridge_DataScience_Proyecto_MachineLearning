@@ -1,6 +1,6 @@
 ![](./img/traffic_crash.png)
 
-# 🚦 TRAFFIC ACCIDENTS ANALISYS
+# 🚦 TRAFFIC ACCIDENTS ANALYSIS
 
 ## 📄 ENUNCIADO
 
@@ -8,7 +8,7 @@
 
 ### Naturaleza del proyecto
 
-Este proyecto se centra en el análisis de los datos de accidentes de tráfico. La principal finalidad es analizar las diferentes varibles de cada accidente y realizar un model que prediga la lesividad. El proyecto involucra la recolección, limpieza, y análisis de datos para proporcionar el pronóstico de heridos, de cara a poder tomar acciones que reduzcan la gravedad de las lesiones.
+Este proyecto se centra en el análisis de los datos de accidentes de tráfico. La principal finalidad es analizar las diferentes varibles de cada accidente y obtener un modelo que prediga la lesividad. El proyecto involucra la recolección, limpieza, y análisis de datos para proporcionar el pronóstico de heridos, de cara a poder tomar acciones que reduzcan la gravedad de las lesiones.
 
 ### Análisis de datos realizado
 
