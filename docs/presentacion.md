@@ -1,58 +1,59 @@
 <!-- Markdown con HTML para un encabezado fijo -->
 <html>
-<head>
-<style>
-  body {
-    margin-top: 100px;
-  }
-  .fixed-header {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    background-color: #333;
-    color: white;
-    padding: 10px 3px;
-    z-index: 1000;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    flex-direction: column; 
-  }
-  .logos {
-    display: flex;
-    justify-content: space-between;
-    width: 100%;
-    max-width: 1000px; 
-    padding: 0 30px; 
-    box-sizing: border-box; 
-  }
-  .logo-left {
-    height: 60px; 
-  }
-  .logo-right {
-    height: 40px; 
-  }
-  .header-content {
-    text-align: center;
-    margin-top: 10px; 
-  }
-</style>
-</head>
-<body>
 
-<div class="fixed-header">
-  <div class="logos">
-    <img src="../img/traffic_crash.png" alt="Imagen Izquierda" class="logo-left">
-    <img src="../img/logo_theBridge.svg" alt="Imagen Derecha" class="logo-right">
-  </div>
-  <div class="header-content">
-    <h1>TRAFFIC ACCIDENTS ANALYSIS</h1>
-    <h4>Diego Gerwig</h4>
-  </div>
-</div>
+  <head>
+    <style>
+      body {
+        margin-top: 100px;
+      }
+      .fixed-header {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        background-color: #333;
+        color: white;
+        padding: 10px 3px;
+        z-index: 1000;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        flex-direction: column; 
+      }
+      .logos {
+        display: flex;
+        justify-content: space-between;
+        width: 100%;
+        max-width: 1000px; 
+        padding: 0 30px; 
+        box-sizing: border-box; 
+      }
+      .logo-left {
+        height: 60px; 
+      }
+      .logo-right {
+        height: 40px; 
+      }
+      .header-content {
+        text-align: center;
+        margin-top: 5px; 
+      }
+    </style>
+  </head>
 
-</body>
+  <body>
+    <div class="fixed-header">
+      <div class="logos">
+        <img src="../img/traffic_crash.png" alt="Imagen Izquierda" class="logo-left">
+        <img src="../img/logo_theBridge.svg" alt="Imagen Derecha" class="logo-right">
+      </div>
+      <div class="header-content">
+        <h1>TRAFFIC ACCIDENTS ANALYSIS</h1>
+        <h4 style="white-space: pre;">Diego Gerwig      2024-SEP      Bilbao</h4>
+      </div>
+    </div>
+  </body>
+
 </html>
 
 #
@@ -68,6 +69,10 @@ Este proyecto se centra en el análisis de los datos de accidentes de tráfico. 
 ## Fuente de datos
 
 La fuente de datos ha sido [KAGGLE](https://www.kaggle.com/datasets/saurabhshahane/road-traffic-accidents/data).
+
+Tamaño del dataset:
+* Registros: 12316
+* Columnas: 32 (16 columnas con valores NULOS, hasta un máximo de 4427 valores nulos))
 
 [Notebook -> 01_Fuentes](../notebooks/01_Fuentes.ipynb)
 
