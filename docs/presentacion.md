@@ -72,7 +72,7 @@ La fuente de datos ha sido [KAGGLE](https://www.kaggle.com/datasets/saurabhshaha
 
 Tamaño del dataset:
 * Registros: 12316
-* Columnas: 32 
+* Columnas: 32 (2 int & 30 object)
 
 Columnas con valores NULOS: 26
 
