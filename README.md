@@ -43,7 +43,7 @@ El potencial final del proyecto es la utilidad de lso resultados para la toma de
 
 python 3.10.11
 
-* numpy>=1.23.2
+* numpy==1.23.2
 * pandas==2.2.2
 * ydata-profiling==4.8.3
 * scikit-learn==1.5.1

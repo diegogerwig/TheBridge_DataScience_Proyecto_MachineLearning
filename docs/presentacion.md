@@ -84,20 +84,24 @@ Registros DUPLICADOS: 0
 
 ## Limpieza y procesamiento
 
-Se ha procedido a la limpieza del dataset mediante la gestión/eliminación de valores nulos, label encoder de datos, obtención de dummies.
+Se ha procedido a la limpieza del dataset mediante:
 
-
-
+* Gestión de valores nulos
+* Conversión de formatos de fecha
+* Label encoder de datos
+* Obtención de dummies
 
 [Notebook -> 02_LimpiezaEDA](../notebooks/02_LimpiezaEDA.ipynb)
 
 ## Análisis exploratorio
 
-Se ha realzaido el análisis exploratorio, incluyendo la visualización de datos, la identificación de patrones iniciales, y la generación de estadísticas descriptivas.
+Se ha realizado el análisis exploratorio, incluyendo la visualización de datos, la identificación de patrones iniciales, y la generación de estadísticas descriptivas.
 
 ## Análisis Avanzado
 
-Se ha aplicado técnicas de análisis avanzadas, como análisis de correlación.
+Se han aplicado técnicas de análisis avanzadas:
+
+* Análisis de correlación.
 
 # 🏆 ASPECTOS CLAVE
 
@@ -105,12 +109,15 @@ Los resultados del análisis ayudarán a optimizar las medidas disuasorias y de 
 
 # 💫 MODELOS
 
+Hemos divididido el dataset en train y test -> 80% / 20%
 Se han empleado los siguinetes modelos para el análisis:
 
 * LogisticRegression
 * DecisionTreeClassifier
 * KNeighborsClassifier
 * RandomForestClassifier
+
+Se ha empleado el StandardScaler para la normalización de los datos.
 
 [Notebook -> 03_Entrenamiento_Evaluacion](../notebooks/03_Entrenamiento_Evaluacion.ipynb)
 
