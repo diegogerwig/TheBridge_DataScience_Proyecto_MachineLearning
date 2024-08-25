@@ -140,8 +140,8 @@ El potencial final del proyecto es la utilidad de lso resultados para la toma de
 
 # 🏁 CONCLUSIONES
 
-* 
-* 
+* No existe diferencia entre ambos sexos
+* Las colisiones más lesivas son las provocadas en choques contra otros vehículos
 
 # 📑 DASHBOARDS
 
