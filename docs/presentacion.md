@@ -86,6 +86,9 @@ Registros DUPLICADOS: 0
 
 Se ha procedido a la limpieza del dataset mediante la gestión/eliminación de valores nulos, label encoder de datos, obtención de dummies.
 
+
+
+
 [Notebook -> 02_LimpiezaEDA](../notebooks/02_LimpiezaEDA.ipynb)
 
 ## Análisis exploratorio
