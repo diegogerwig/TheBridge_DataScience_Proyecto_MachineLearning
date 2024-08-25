@@ -110,14 +110,25 @@ Los resultados del análisis ayudarán a optimizar las medidas disuasorias y de 
 # 💫 MODELOS
 
 Hemos divididido el dataset en train y test -> 80% / 20%
-Se han empleado los siguinetes modelos para el análisis:
 
+Se han empleado los siguientes modelos para el análisis:
 * LogisticRegression
 * DecisionTreeClassifier
 * KNeighborsClassifier
 * RandomForestClassifier
 
 Se ha empleado el StandardScaler para la normalización de los datos.
+
+Calculamos la accuracy para cada modelo y selccionamos el modelo óptimo.
+
+Calculamos los hiperparámetros para el modelo seleccionado.
+
+Aplicamos los hiperparámetros obtenidos y se lo aplicamos al modelo.
+
+Exportamos el modelo generado (*.pkl)
+
+realizamos la predicción y generamos el informe de clasificación, la matriz de confusión y los características más relevantes.
+
 
 [Notebook -> 03_Entrenamiento_Evaluacion](../notebooks/03_Entrenamiento_Evaluacion.ipynb)
 
