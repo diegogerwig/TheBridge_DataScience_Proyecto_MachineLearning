@@ -149,7 +149,8 @@ El potencial final del proyecto es la utilidad de los resultados para la toma de
 
 # 🏁 CONCLUSIONES
 
-* Se prodecun más accidentes en días laborable que en fin de semana
+* Se producen más accidentes en días laborable que en fin de semana
+* Las condiciones meteorológicas y de luminosidad influyen de forma significativa
 * El sexo no influye en la lesividad de los accidentes
 * La edad influye negativamente en la gravedad de las lesiones
 * El nivel educativo influye negativamente en el número de accidentes
