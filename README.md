@@ -54,7 +54,7 @@ python 3.10.11
 
 ## ✨ PRESENTACION ANALISIS
 
-[Presentación de los resultados obtenidos tras el análisis de los datos](./docs/presentacion.md)
+[Presentación de los resultados obtenidos tras el análisis de los datos](./docs/project_presentation.md)
 
 ## 👨 AUTHOR
 
