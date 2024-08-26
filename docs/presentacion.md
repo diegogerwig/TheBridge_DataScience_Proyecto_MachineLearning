@@ -102,11 +102,11 @@ Se ha realizado el análisis exploratorio, incluyendo la visualización de datos
 
 Se han aplicado técnicas de análisis avanzadas:
 
-* Análisis de correlación.
+* Análisis de correlación: eliminamos aquellas columnas con un factor de correlación mayor a 0.70 (13 columnas eliminadas).
 
 # 🏆 ASPECTOS CLAVE
 
-Los resultados del análisis ayudarán a optimizar las medidas disuasorias y de control de trafico, realzaicón de inversiones en la mejora del paruqe de vehículos o de la infraestructura, realzaición de medidas de conciación dirigidas a los diferentes colectivos (edad, nivel cultural, etc)
+Los resultados del análisis ayudarán a optimizar las medidas disuasorias y de control de trafico, ayuda en la toma de decisones para la realizacón de inversiones en la mejora del parque de vehículos o de la infraestructura, realizacióndivulgación mediante medidas de concienciación dirigidas a los diferentes colectivos (edad, nivel cultural, etc)
 
 # 💫 MODELOS
 
@@ -124,18 +124,18 @@ Calculamos la accuracy para cada modelo y selccionamos el modelo óptimo.
 
 Calculamos los hiperparámetros para el modelo seleccionado.
 
-Aplicamos los hiperparámetros obtenidos y se lo aplicamos al modelo.
+Aplicamos los hiperparámetros obtenidos y se lo aplicamos al modelo. Hemos aplicado class_weight='balanced' para ajustar el peso de las clases en función de su frecuencia en el conjunto de datos.
 
 Exportamos el modelo generado (*.pkl)
 
-realizamos la predicción y generamos el informe de clasificación, la matriz de confusión y los características más relevantes.
+Realizamos la predicción y generamos el informe de clasificación, la matriz de confusión y visualziamos los características más relevantes.
 
 [Notebook -> 03_Entrenamiento_Evaluacion](../notebooks/03_Entrenamiento_Evaluacion.ipynb)
 
 
 # 💥 POTENCIAL
 
-El potencial final del proyecto es la utilidad de lso resultados para la toma de decsiones por parte de las Autoridades de trafico para la mejora de la seguridad vial.
+El potencial final del proyecto es la utilidad de los resultados para la toma de decisiones por parte de las Autoridades de trafico para la mejora de la seguridad vial.
 
 ![](../img/vision_zero.jpg)
 
