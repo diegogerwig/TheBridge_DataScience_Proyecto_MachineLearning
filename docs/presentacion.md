@@ -149,7 +149,8 @@ El potencial final del proyecto es la utilidad de los resultados para la toma de
 
 # 🏁 CONCLUSIONES
 
-* No existe diferencia entre ambos sexos
+* Se prodecun más accidentes en días laborable que en fin de semana
+* El sexo no influye en la lesividad de los accidentes
 * La edad influye negativamente en la gravedad de las lesiones
 * El nivel educativo influye negativamente en el número de accidentes
 
