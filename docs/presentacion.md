@@ -64,6 +64,8 @@
 
 Este proyecto se centra en el análisis de los datos de accidentes de tráfico. La principal finalidad es analizar las diferentes varibles de cada accidente y obtener un modelo que prediga la lesividad. El proyecto involucra la recolección, limpieza, y análisis de datos para proporcionar el pronóstico de heridos, de cara a poder tomar acciones que reduzcan la gravedad de las lesiones.
 
+***EL OBJETIVO ES PODER CONSTRUIR UN MODELO PARA REALIZAR UNA CLASIFICACION MULTICLASE DE LA SEVERIDAD DEL ACCIDIENTE EN FUNCION DEL RESTO DE PARAMETROS***
+
 
 # 📊 ANALISIS DE DATOS
 
@@ -80,6 +82,7 @@ Columnas con valores NULOS: 26
 Máximo de valores nulos: 4427
 
 Registros DUPLICADOS: 0
+
 
 [Notebook -> 01_Fuentes](../notebooks/01_Fuentes.ipynb)
 
@@ -135,7 +138,7 @@ Realizamos la predicción y generamos el informe de clasificación, la matriz de
 
 # 💥 POTENCIAL
 
-El potencial final del proyecto es la utilidad de los resultados para la toma de decisiones por parte de las Autoridades de trafico para la mejora de la seguridad vial.
+El potencial final del proyecto es la utilidad de los resultados para la toma de decisiones por parte de las Autoridades de tráfico para la mejora de la seguridad vial.
 
 ![](../img/vision_zero.jpg)
 

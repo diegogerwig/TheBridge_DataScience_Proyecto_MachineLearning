@@ -19,13 +19,13 @@ En esta sección, se detallan los pasos y técnicas utilizadas para el análisis
 * Análisis Exploratorio: Se ha realzaido el análisis exploratorio, incluyendo la visualización de datos, la identificación de patrones iniciales, y la generación de estadísticas descriptivas.
 * Análisis Avanzado: Se ha aplicado técnicas de análisis avanzadas, como análisis de correlación.
 
-### Aspectos clave del negocio a resolver
+### Aspectos clave
 
-Los resultados del análisis ayudarán a optimizar las medidas disuasorias y de control de trafico, realzaicón de inversiones en la mejora del paruqe de vehículos o de la infraestructura, realzaición de medidas de conciación dirigidas a los diferentes colectivos (edad, nivel cultural, etc)
+Los resultados del análisis ayudarán a optimizar las medidas disuasorias y de control de trafico, ayuda en la toma de decisones para la realizacón de inversiones en la mejora del parque de vehículos o de la infraestructura, realizacióndivulgación mediante medidas de concienciación dirigidas a los diferentes colectivos (edad, nivel cultural, etc)
 
 ### Modelo(s) empleados y análisis
 
-Se han empleado los siguinetes modelos para el análisis:
+Se han empleado los siguientes modelos para el análisis:
 
 * LogisticRegression
 * DecisionTreeClassifier
@@ -34,7 +34,7 @@ Se han empleado los siguinetes modelos para el análisis:
 
 ### Potencial final del proyecto
 
-El potencial final del proyecto es la utilidad de lso resultados para la toma de decsiones por parte de las Autoridades de trafico para la mejora de la seguridad vial.
+El potencial final del proyecto es la utilidad de lso resultados para la toma de decisiones por parte de las Autoridades de tráfico para la mejora de la seguridad vial.
 
 ![](./img/vision_zero.jpg)
 
