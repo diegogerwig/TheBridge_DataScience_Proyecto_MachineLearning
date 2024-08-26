@@ -125,7 +125,7 @@ Se ha empleado el StandardScaler para la normalización de los datos.
 
 Calculamos la accuracy para cada modelo y selccionamos el modelo óptimo.
 
-Calculamos los hiperparámetros para el modelo seleccionado.
+Calculamos los hiperparámetros para el modelo seleccionado, aplicando cross_validation.
 
 Aplicamos los hiperparámetros obtenidos y se lo aplicamos al modelo. Hemos aplicado class_weight='balanced' para ajustar el peso de las clases en función de su frecuencia en el conjunto de datos.
 
