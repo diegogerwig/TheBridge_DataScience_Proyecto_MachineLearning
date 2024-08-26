@@ -1,5 +1,3 @@
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
-
 ![](./img/traffic_crash.png)
 
 # 🚦 TRAFFIC ACCIDENTS ANALYSIS
