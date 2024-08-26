@@ -1,0 +1,4 @@
+best_params:
+  max_depth: 3
+  max_features: 3
+  n_estimators: 25
