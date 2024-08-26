@@ -64,6 +64,7 @@
 
 Este proyecto se centra en el análisis de los datos de accidentes de tráfico. La principal finalidad es analizar las diferentes varibles de cada accidente y obtener un modelo que prediga la lesividad. El proyecto involucra la recolección, limpieza, y análisis de datos para proporcionar el pronóstico de heridos, de cara a poder tomar acciones que reduzcan la gravedad de las lesiones.
 
+
 # 📊 ANALISIS DE DATOS
 
 ## Fuente de datos
@@ -129,8 +130,8 @@ Exportamos el modelo generado (*.pkl)
 
 realizamos la predicción y generamos el informe de clasificación, la matriz de confusión y los características más relevantes.
 
-
 [Notebook -> 03_Entrenamiento_Evaluacion](../notebooks/03_Entrenamiento_Evaluacion.ipynb)
+
 
 # 💥 POTENCIAL
 
@@ -138,12 +139,18 @@ El potencial final del proyecto es la utilidad de lso resultados para la toma de
 
 ![](../img/vision_zero.jpg)
 
+
+# 📑 DASHBOARDS
+
+![](../img/dashboard_main.png)
+
+![](../img/dashboard_graf.png)
+
+
 # 🏁 CONCLUSIONES
 
 * No existe diferencia entre ambos sexos
 * La edad influye negativamente en la gravedad de las lesiones
 * El nivel educativo influye negativamente en el número de accidentes
 
-# 📑 DASHBOARDS
-
-
+[Notebook -> 04_Conclusiones](../notebooks/04_Conclusiones.ipynb)
