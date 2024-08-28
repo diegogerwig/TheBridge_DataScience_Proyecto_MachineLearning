@@ -77,7 +77,7 @@ Tamaño del dataset:
 * Registros: 12316
 * Columnas: 32 (2 int & 30 object)
 
-Columnas con valores NULOS: 26
+Columnas con valores NULOS: 16
 
 Máximo de valores nulos: 4427
 
